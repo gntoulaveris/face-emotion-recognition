@@ -38,4 +38,4 @@ The model was evaluated on the validation set. The accuracy and loss of the mode
 </p>
 
 ## Model testing
-TODO: The model needs to be tested with the test set to accurately evaluate its generalization ability before deployment.
+TODO: The model needs to be tested with the test set to accurately evaluate its generalization ability before deployment. Do the confusion matrix!
