@@ -36,3 +36,6 @@ The model was evaluated on the validation set. The accuracy and loss of the mode
 <p align="center">
   <img src="confusion_matrix.png" alt="Confusion matrix - Validation" width="500">
 </p>
+
+## Model testing
+TODO: The model needs to be tested with the test set to accurately evaluate its generalization ability before deployment.
