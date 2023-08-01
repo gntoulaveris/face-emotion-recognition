@@ -8,7 +8,7 @@ The training dataset was derived from Kaggle: https://www.kaggle.com/code/gaurav
 It composed of 35.887 face images, split between the emotion categories, as seen in the following plot. Some of the face images belonged to cartoons or anime, but the majority seemed to be of real people. An overview of some of them can be seen in the gray-scaled image below. Provided were also a validation and a test set that shared the same classes' imbalance as the training set.
 
 <p align="center">
-  <img src="face_emotion_recognition.png" alt="Emotion classes" width="500">
+  <img src="training_set_emotion_classes.png" alt="Emotion classes" width="500">
 </p>
 
 <p align="center">
