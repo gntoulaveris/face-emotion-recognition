@@ -26,11 +26,11 @@ Data augmentation was utilized in training through ImageDataGenerator. Adam was 
 The model was evaluated on the validation set. The accuracy and loss of the model through the epochs can be seen in the following figures.
 
 <p align="center">
-  <img src="model_accuracy_loss.png" alt="Model Accuracy - Loss" width="500">
+  <img src="model_accuracy_loss.png" alt="Model Accuracy - Loss" width="1000">
 </p>
 
 <p align="center">
-  <img src="model_accuracy_loss_violins.png" alt="Model Accuracy - Loss Violin Plots" width="500">
+  <img src="model_accuracy_loss_violins.png" alt="Model Accuracy - Loss Violin Plots" width="1000">
 </p>
 
 <p align="center">
