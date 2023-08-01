@@ -1,2 +1,8 @@
 # face-emotion-recognition
-Real time recognition of emotions from footage taken from the user's camera. 
+
+# Overview
+This project involved the recognition of face emotions taken from real time image footage from the user's camera. The Keras library was utilized. The deployed model allows the user to capture an image from his camera, detects the user's face using haarcascade and assigns to it the appropriate emotion. The model is able to detect with good accuracy between the following emotions: ’anger’, ’disgust’, ’fear’, ’happiness’, ’sadness’, ’surprise’ and ’neutral’.
+
+# Training data
+The training dataset was derived from Kaggle: https://www.kaggle.com/code/gauravsharma99/facial-emotion-recognition/data
+It composed of 35.887 face images, split between the emotion categories, as seen in the following plot. Some of the face images belonged to cartoons or anime, but the majority seemed to be of real people. An overview of some of them can be seen in the gray-scaled image below.
