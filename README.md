@@ -34,7 +34,7 @@ The model was evaluated on the validation set. The accuracy and loss of the mode
 </p>
 
 <p align="center">
-  <img src="confusion_matrix.png" alt="Confusion matrix - Validation" width="500">
+  <img src="confusion_matrix_testing.png" alt="Confusion matrix - Validation" width="500">
 </p>
 
 ## Model testing
